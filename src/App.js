@@ -3,6 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import { Header } from "./component/Header";
 import { Search } from "./component/Search";
 
+//App
 function App() {
   return (
     <div className="App">
